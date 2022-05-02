@@ -10,7 +10,7 @@ hi, i'm [Salah El-Shennawy](https://www.linkedin.com/in/lshennawy/), a passionat
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/LSheNNawY/LSheNNawY/blob/master/code.gif?raw=true" width="400" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/LSheNNawY/LSheNNawY/blob/master/code.gif?raw=true" width="450" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:devshennawy@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -25,4 +25,4 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 **my todoist stats:**
 
-<p align="left"> <img  width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=lshennawy&show_icons=true&theme=gotham" alt="lshennawy" />
+<p align="left"> <img  width="340" height="200" src="https://github-readme-stats.vercel.app/api?username=lshennawy&show_icons=true&theme=gotham" alt="lshennawy" />
