@@ -16,7 +16,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 🌱 I’m currently practicing problem solving
 - 🤔 I’m looking for new challanges and new opportunity to gain and share experience
 - 💬 ask me about anything, i am happy to help
-- 📝[My Resume](https://drive.google.com/file/d/1KhJqO-WhpsqrRH4QqUJ3fszno1XV50JJ/view?usp=sharing) 👨‍💻
+- 📝[My Resume](https://drive.google.com/file/d/1qq760tB4E11eEv6XeNqHXqkLDP1uR1pz/view?usp=sharing) 👨‍💻
 
 <br />
 
