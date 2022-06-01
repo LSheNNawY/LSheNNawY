@@ -13,7 +13,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/LSheNNawY/LSheNNawY/blob/master/code.gif?raw=true" width="450" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:devshennawy@gmail.com) :)
-- 🌱 I’m currently practicing problem solving
 - 🤔 I’m looking for new challanges and new opportunity to gain and share experience
 - 💬 ask me about anything, i am happy to help
 - 📝[My Resume](https://drive.google.com/file/d/1qq760tB4E11eEv6XeNqHXqkLDP1uR1pz/view?usp=sharing) 👨‍💻
