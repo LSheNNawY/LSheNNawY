@@ -5,14 +5,14 @@
 
 <br />
 
-hi, i'm [Salah El-Shennawy](https://www.linkedin.com/in/lshennawy/), a passionate fullstack web developer from egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Salah El-Shennawy](https://www.linkedin.com/in/lshennawy/), a passionate a software engineer from egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/LSheNNawY/LSheNNawY/blob/master/code.gif?raw=true" width="450" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:devshennawy@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:salah.shennawy@gmail.com) :)
 - 🤔 I’m looking for new challanges and new opportunity to gain and share experience
 - 💬 ask me about anything, i am happy to help
 - 📝[My Resume](https://drive.google.com/file/d/1tnLovltXrOe7bgtn7pTikrFCLIuTwnBm/view?usp=sharing) 👨‍💻
