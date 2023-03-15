@@ -15,7 +15,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:salah.shennawy@gmail.com) :)
 - 🤔 I’m looking for new challanges and new opportunity to gain and share experience
 - 💬 ask me about anything, i am happy to help
-- 📝[My Resume](https://docs.google.com/document/d/1wBFJrzT5BTfagJGNqI50tU1aA4G6pQ6k/edit?usp=sharing&ouid=117807619724183507392&rtpof=true&sd=true) 👨‍💻
+- 📝[My Resume](https://drive.google.com/file/d/1Q3ESUn8pXajE7G4KdZs6AeqMqaqeldIE/view?usp=sharing) 👨‍💻
 
 <br />
 
